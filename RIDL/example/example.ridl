@@ -1,0 +1,16 @@
+# This is an example
+# In this example, there are variables, sounds, choices, and more
+[page, page1]
+	[num] number_variable 1
+	[message] This is an example! That means you SHOULD be learning from it!
+	[sound] res://addons/RIDL/example/audio/ThisExample.wav
+	[option] Thanks for the help!
+		[message] No problem!
+		[sound] res://addons/RIDL/example/audio/NoProblem.wav
+	[end]
+	[option] I don't wanna learn!
+		[message] You're stupid and you've admitted so this many times: $(number_variable)
+		[sound] res://addons/RIDL/example/audio/Stupid.wav
+		[++] number_variable
+	[end]
+[end]

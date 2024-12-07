@@ -1,0 +1,15 @@
+RIDL License (Renderless Interactive Dialog Language)
+
+By using the RIDL addon, you agree to the following terms:
+
+    Usage
+    You may use this addon free of charge in any program, game, or project.
+
+    Requirements
+    a. You must place the included ridl_logo.png in a visible location within your program or game where users/players can see it.
+    b. You must credit "Renderless Games" prominently in the project's credits or documentation.
+
+    Redistribution
+    Redistribution of the RIDL addon is strictly prohibited. This includes selling, giving away, or otherwise sharing the addon, whether modified or unmodified.
+
+Failure to comply with these terms may result in revocation of the rights granted under this license.
